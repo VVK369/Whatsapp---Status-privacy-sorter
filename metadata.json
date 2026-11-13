@@ -1,0 +1,8 @@
+{
+  "name": "CircleStatus",
+  "description": "Group your WhatsApp contacts into Family, Friends, and custom circles to compose, preview, and share targeted WhatsApp statuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
